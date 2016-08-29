@@ -1,0 +1,1 @@
+This is some more text. It's not very interesting but I'm making it so long that it will have to linebreak to see how emacs and other programs handle it. Emacs does it slightly weirdly, or at least, old school. I'm not sure I like Emacs yet, but, well, it certainly feels retro. GUI-less is pretty cool though.
